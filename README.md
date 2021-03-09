@@ -1,4 +1,4 @@
-# REST COUNTRIES API IN REACT
+# Rest Countries API with Reactjs
 
 This project implements the user interface displaying all countries and their respective information such as country name, capital city, currencies, languages, and population. 
 
